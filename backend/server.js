@@ -19,7 +19,7 @@ dotenv.config()
    ENV VARIABLES
 ================================ */
 
-const PORT = process.env.PORT || 5000
+const PORT = process.env.PORT || 3000
 const JWT_SECRET = process.env.JWT_SECRET
 const APP_URL = process.env.APP_URL || "http://localhost:3000"
 const STABLE_HORDE_KEY = process.env.STABLE_HORDE_KEY || "0000000000"
