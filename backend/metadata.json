@@ -1,0 +1,5 @@
+{
+  "name": "API cURL Builder",
+  "description": "A futuristic API management platform to clone endpoints, manage secure API keys, and test requests with cURL templates.",
+  "requestFramePermissions": []
+}
